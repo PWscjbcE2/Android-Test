@@ -38,6 +38,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener  {
         button8.setOnClickListener(this)
         button9.setOnClickListener(this)
         reset.setOnClickListener(this)
+
      }
 
      override fun onCreate(savedInstanceState: Bundle?)  {
